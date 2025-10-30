@@ -17,6 +17,6 @@ In this project, we fine-tune a **ResNet18** model (pretrained on ImageNet) to c
 The dataset includes images of faces labeled as **yawn** and **no_yawn**.  
 You can download the training data from the following link:
 
-**[Download Training Data](https://your-download-link-here](https://drive.google.com/drive/folders/1mtyhIdD5Q31y22n0KpOWasn74CBQE890?usp=sharing)**
+**[Download Training Data](https://drive.google.com/drive/folders/1mtyhIdD5Q31y22n0KpOWasn74CBQE890?usp=sharing)**
 
 **Dataset structure:**
